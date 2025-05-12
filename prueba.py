@@ -43,7 +43,7 @@ def add_products():
     name_product = input("type the name of the planet: ").lower()
     price_product = get_valid_float("type the price of the planet: ")
     quantity_product = get_valid_int("type the quantity of the planet: ")
-    inventory.append({"name": name_product, "price": price_product, "quantity ":quantity_product})
+    inventory.append({"name": name_product, "price": price_product, "quantity":quantity_product})
     print("\n\033[32mProduct addded correctly\033[0m")
 
 
