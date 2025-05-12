@@ -1,4 +1,4 @@
-# final_project
+# final project
 Inventory management system for a planet store
 
 The program consists of an interactive menu where we can add, search for, and remove planets from our space store.
